@@ -1,0 +1,2 @@
+class PizzaPromise < ApplicationRecord
+end

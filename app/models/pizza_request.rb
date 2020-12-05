@@ -1,0 +1,2 @@
+class PizzaRequest < ApplicationRecord
+end
